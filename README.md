@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedelementary-data-structures
+<br>
+Elementary Data StructuresSuppose you created a video project that has two data structures—an array of strings and a ListView control. You used the Sort() method of the array class to put the film names in ascending order. Then the program populated lstNames with the ordered strings from the array.Write a program that:• Populate the list using a different technique. Within the Form1_Load event, comment out the Sort() method.• Change the Sorting property of lstNames to Ascending.• Change the Sorting property of lstNames to Descending to display the names in lstNames sorted automatically.Save the program as Elementary.cpp.
